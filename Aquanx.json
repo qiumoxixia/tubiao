@@ -1,9 +1,10 @@
 {
-  "name": "qiumoxixia icons",
-  "icons": 
-  [ 
-{"name": "xunlei.png",
-      "url": "https://cdn.jsdelivr.net/gh/qiumoxixia/tubiao@main/icons/xunlei.png"
-}
+"name":"qiumoxixia icon", 
+"description":"自用 Quantumult 重写图标， ", 
+"icons":
+  [
+{"name":"kuaisho.png","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/4e654a76b50883664e4487b93a159af6b2c5e1ab/xunlei.png"},
+    
+
   ]
 }
