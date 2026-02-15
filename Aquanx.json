@@ -1,6 +1,6 @@
 {
 "name":"qiumoxixia icon", 
-"description":"自用 Quantumult 重写图标 ", 
+"description":"自用 Quantumult 重写图标，像素为144×144px ", 
 "icons":
   [
     {"name":"xiaoxiong.PNG","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/xiaoxiong.png"},
@@ -9,6 +9,7 @@
     {"name":"kugou.png","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/kugou.png"},
     {"name":"pikpak.png","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/pikpak.png"},
     {"name":"zhihu.png","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/zhihu.png"},
+    {"name":"123.png","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/123.png"},
 
   ]
 }
