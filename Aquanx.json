@@ -1,6 +1,6 @@
 {
 "name":"qiumoxixia icon", 
-"description":"自用 Quantumult 重写图标，像素为144×144px ", 
+"description":"自用Quantumult X重写图标，像素为144×144px ", 
 "icons":
   [
     {"name":"xiaoxiong.PNG","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/xiaoxiong.png"},
