@@ -3,7 +3,6 @@
 "description":"自用 Quantumult 重写图标 ", 
 "icons":
   [
-{"name":"kuaisho.png","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/4e654a76b50883664e4487b93a159af6b2c5e1ab/xunlei.png"},
     {"name":"xiaoxiong.PNG","uri":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/xiaoxiong.PNG"},
 
   ]
