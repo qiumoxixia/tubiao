@@ -4,8 +4,9 @@
 "icons":
   [
     {"name":"xiaoxiong.PNG","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/xiaoxiong.png"},
-    {"name":"meiyou.PNG","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/meiyou.PNG"},
+    {"name":"meiyou.png","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/meiyou.png"},
     {"name":"JD.png","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/JD.png"},
+    {"name":"kugou.png","url":"https://raw.githubusercontent.com/qiumoxixia/tubiao/refs/heads/main/icons/kugou.png"},
 
   ]
 }
