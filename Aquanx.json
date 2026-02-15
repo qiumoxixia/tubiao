@@ -1,8 +1,9 @@
 {
   "name": "qiumoxixia icons",
-  "icons": [ 
-    {"name": "xunlei",
+  "icons": 
+  [ 
+{"name": "xunlei.png",
       "url": "https://cdn.jsdelivr.net/gh/qiumoxixia/tubiao@main/icons/xunlei.png"
-    }
+}
   ]
 }
